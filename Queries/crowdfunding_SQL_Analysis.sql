@@ -64,9 +64,3 @@ WHERE (c.outcome = 'live')
 ORDER BY b.last_name;
 -- Check the table
 SELECT * FROM email_backers_remaining_goal_amount;
-
-
-
--- Check the table
-
-
